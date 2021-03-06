@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "413612420832",
+    "firebase_url": "https://mandobk-delivery-boy.firebaseio.com",
+    "project_id": "mandobk-delivery-boy",
+    "storage_bucket": "mandobk-delivery-boy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413612420832:android:1ab6a07023aae14e31ea85",
+        "android_client_info": {
+          "package_name": "com.khattab.mandobk_delivery_boy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413612420832-1jlu4c6v3v2dqkluddgohircl7cbr5q2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0u8yMSofR87jKT0m-wTh7vPIx3C-Ud6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413612420832-1jlu4c6v3v2dqkluddgohircl7cbr5q2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
